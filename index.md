@@ -2,7 +2,7 @@
   <video
     src="ukhona/data-center.MP4#t=8"
     controls
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    style="position: absolute; top: 0; center: 0; width: 65%; height: 100%;"
   ></video>
 </div>
 
