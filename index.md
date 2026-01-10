@@ -6,6 +6,7 @@
   ></video>
 </div>
 
+- `git push` [shit](https://ukb-dt.github.io/video-00/)
 
 [Exactly](https://x.com/rohanpaul_ai/status/2009430600676200472?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) — that 1 GW figure tells you almost everything about the economics.
 
