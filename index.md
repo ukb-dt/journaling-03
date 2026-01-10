@@ -1,10 +1,11 @@
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; display: flex; justify-content: center;">
   <video
-    src="ukhona/data-center.MP4#t=8"
+    src="ukhona/data-centers.MP4#t=8"
     controls
-    style="position: absolute; top: 0; center: 0; width: 65%; height: 100%;"
+    style="position: absolute; top: 0; height: 100%; width: 100%; max-width: 65%;"
   ></video>
 </div>
+
 
 [Exactly](https://x.com/rohanpaul_ai/status/2009430600676200472?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) — that 1 GW figure tells you almost everything about the economics.
 
