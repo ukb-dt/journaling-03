@@ -6,7 +6,7 @@
   ></video>
 </div>
 
-Exactly — that 1 GW figure tells you almost everything about the economics.
+[Exactly](https://x.com/rohanpaul_ai/status/2009430600676200472?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) — that 1 GW figure tells you almost everything about the economics.
 
 A $50 billion datacenter consuming roughly **1 gigawatt of continuous power** translates to:
 
