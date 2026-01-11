@@ -10,10 +10,10 @@
 
 [Exactly](https://x.com/rohanpaul_ai/status/2009430600676200472?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) — that 1 GW figure tells you almost everything about the economics.
 
-A $50 billion datacenter consuming roughly **1 gigawatt of continuous power** translates to:
+A $50 billion [datacenter](https://ukb-dt.github.io/credo-00/) consuming roughly **1 gigawatt of continuous power** translates to:
 
 * **8.76 terawatt-hours per year** (1 GW × 8,760 hours/year).
-* At an industrial rate of, say, $0.05 / kWh, that’s **$438 million in annual electricity cost** — and that’s before cooling, redundancy, or power conditioning.
+* At an industrial rate of, say, [$0.05 / kWh](https://ukb-dt.github.io/era/), that’s **$438 million in annual electricity cost** — and that’s before cooling, redundancy, or power conditioning.
 
 Now, why this matters for **profit margins**:
 
